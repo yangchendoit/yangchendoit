@@ -1,6 +1,6 @@
 ### :cn: 
 
-你好~ 我是 Blake. 目前就职于腾讯, 如果你想来鹅厂可以给我[发邮件](mailto:yangchendoit@163.com)
+你好~ 我是 Blake. 目前就职于蚂蚁, 如果你想来蚂蚁可以给我[发邮件](mailto:yangchendoit@163.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=yangchendoit&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
